@@ -23,7 +23,7 @@ Daemon.
 
 This site features API documentation for command line arguments, gRPC in
 [Python](//dev.lightning.community/guides/python-grpc/) /
-[Javascript](//dev.lightning.community/guides/python-grpc/), and a REST proxy.
+[Javascript](//dev.lightning.community/guides/javascript-grpc/), and a REST proxy.
 It is intended for those who already understand how to work with LND. If this is
 your first time or you need a refresher, you may consider perusing our LND
 developer site featuring a tutorial, resources and guides at
